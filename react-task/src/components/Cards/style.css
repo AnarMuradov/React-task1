@@ -1,0 +1,7 @@
+.cards{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: flex-start;
+    height: 300px;
+    gap: 30px;
+}

@@ -1,0 +1,21 @@
+.sct-1{
+    width: 100%;
+    height:600px;
+    
+}
+
+.buiding-sct{
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content{
+    display: flex;
+    align-items: flex-start;
+    height: 300px;
+    font-size: 32px;
+    font-weight: bold;
+}
